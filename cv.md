@@ -1,5 +1,5 @@
 # ***VLADISLAV*** *MUSHTUKOV*
-![foto](F:\rsschool\rsschool-cv\imj\i'm.jpg)
+![foto](\imj\i'm.jpg)
 ***
 ## ***Contact information:***
 ***Phone:*** +375(25)7999846
