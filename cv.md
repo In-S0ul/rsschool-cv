@@ -1,10 +1,10 @@
 # ***VLADISLAV*** *MUSHTUKOV*
-![foto](\imj\i'm.jpg)
+![foto](https://sun9-15.userapi.com/impg/OKHdonbcjIeeG3lukTpcoBlrh8B2BMI7oBdJcw/zPikk4JCNdo.jpg?size=1280x1280&quality=95&sign=a4497c659c4f4503179be602596393bb&type=album)
 ***
 ## ***Contact information:***
-***Phone:*** +375(25)7999846
-***E-mail:*** mushtvlade@yandex.by
-***Discord rsschool :*** One Gog(@In-S0ul)
+* ***Phone:*** +375(25)7999846
+* ***E-mail:*** mushtvlade@yandex.by
+* ***Discord rsschool :*** One Gog(@In-S0ul)
 ***
 ## ***ABOUT ME***
 * goal: My goal is to attainment ITskills, become an outstanding professional and share my knowledge with others. Find a balance between work and family 
