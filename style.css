@@ -25,7 +25,9 @@ body{
 }
 
 .footer{
-    border: 1px solid red;
+    
+    border-top: 5px solid #4682B4;
+    background:#4682B4;
 }
 
 .container{
@@ -98,4 +100,12 @@ body{
 .section-profile{
     color: #fff;
     border-bottom: 15px solid #4682B4;
+}
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+.container-footer img{
+    width: 10%;
 }
