@@ -33,4 +33,23 @@ body{
     display: flex;
     justify-content: center ;
     align-items: center;
+    list-style: none;
+}
+.nav-link{
+    padding: 0 20px;
+    line-height:50px ;
+    text-decoration: none;
+    color: brown;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    transition:.1s;
+}
+.nav-link:hover{
+    color:black;
+    border: 1px solid black;
+    font-weight: 600;
+}
+html{
+    scroll-behavior: smooth;
 }
