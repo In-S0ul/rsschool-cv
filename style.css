@@ -103,6 +103,11 @@ body{
     font-style: italic;
     font-size: 22px;
 }
+.section:last-of-type{
+    padding: 40px;
+    margin-bottom: 1%;
+    
+}
 .section-profile{
     color: #fff;
     border-bottom: 15px solid #4682B4;
